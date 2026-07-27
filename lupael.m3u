@@ -1,0 +1,68 @@
+#EXTM3U
+#PLAYLIST:Live TV Pro
+#EXTINF:-1 tvg-name="MAASRANGA TV HD" tvg-logo="https://sunplex.net/iptv/logo/maasranga-tv.jpg" group-title="Bangla Entertainment",MAASRANGA TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1 tvg-name="BTV HD" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="Bangla Entertainment",BTV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="Bangla News",SOMOY TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+#EXTINF:-1 tvg-name="SOMOY TV (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/somoy-tv.jpg" group-title="Bangla News",SOMOY TV (Source 2)
+https://bozztv.com/rongo/rongo-somoy/index.m3u8
+#EXTINF:-1 tvg-name="EKATTOR TV HD" tvg-logo="https://sunplex.net/iptv/logo/ekattor-tv.jpg" group-title="Bangla News",EKATTOR TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705.m3u8
+#EXTINF:-1 tvg-name="CHANNEL I HD" tvg-logo="https://sunplex.net/iptv/logo/channel-i.jpg" group-title="Bangla Entertainment",CHANNEL I HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1 tvg-name="DEEPTO TV HD" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="Bangla Entertainment",DEEPTO TV HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+#EXTINF:-1 tvg-name="DEEPTO TV HD (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/depto-tv.jpg" group-title="Bangla Entertainment",DEEPTO TV HD (Source 2)
+https://byphdgllyk.gpcdn.net/hls/deeptotv/0_1/index.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 9 HD" tvg-logo="https://sunplex.net/iptv/logo/channel-9.jpg" group-title="Bangla Entertainment",CHANNEL 9 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 tvg-name="SATV (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/satv.jpg" group-title="Bangla Entertainment",SATV (Source 2)
+https://bozztv.com/rongo/rongo-SATV/index.m3u8
+#EXTINF:-1 tvg-name="NTV" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="Bangla Entertainment",NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
+#EXTINF:-1 tvg-name="NTV (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/ntv.jpg" group-title="Bangla Entertainment",NTV (Source 2)
+https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
+#EXTINF:-1 tvg-name="ATN BANGLA" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="Bangla Entertainment",ATN BANGLA
+https://tvsen5.aynaott.com/atnbangla/index.m3u8
+#EXTINF:-1 tvg-name="ATN NEWS" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="Bangla News",ATN NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1706/output/1706.m3u8
+#EXTINF:-1 tvg-name="ATN NEWS (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/atn-bangla.jpg" group-title="Bangla News",ATN NEWS (Source 2)
+https://bozztv.com/rongo/rongo-ATNNews/index.m3u8
+#EXTINF:-1 tvg-name="RTV HD" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangla Entertainment",RTV HD
+https://bozztv.com/rongo/rongo-RTV/index.m3u8
+#EXTINF:-1 tvg-name="RTV HD (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/rtv.jpg" group-title="Bangla Entertainment",RTV HD (Source 2)
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="Bangla News",INDEPENDENT TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
+#EXTINF:-1 tvg-name="INDEPENDENT TV (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/independent-tv.jpg" group-title="Bangla News",INDEPENDENT TV (Source 2)
+https://bozztv.com/rongo/rongo-IndependentTV/index.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangla News",JAMUNA TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+#EXTINF:-1 tvg-name="JAMUNA TV (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/jamuna-tv.jpg" group-title="Bangla News",JAMUNA TV (Source 2)
+https://bozztv.com/rongo/rongo-JamunaTelevision/index.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Bangla News",CHANNEL 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+#EXTINF:-1 tvg-name="CHANNEL 24 (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/channel-24.jpg" group-title="Bangla News",CHANNEL 24 (Source 2)
+https://bozztv.com/rongo/rongo-Channel24HD/index.m3u8
+#EXTINF:-1 tvg-name="BANGLA VISION HD" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Bangla Entertainment",BANGLA VISION HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 tvg-name="BANGLA VISION HD (Source 2)" tvg-logo="https://sunplex.net/iptv/logo/banglavision.jpg" group-title="Bangla Entertainment",BANGLA VISION HD (Source 2)
+https://tvsen5.aynaott.com/banglavision/index.m3u8
+#EXTINF:-1 tvg-name="News24 HD" tvg-logo="https://sunplex.net/iptv/logo/news-24.jpg" group-title="Bangla News",News24 HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/1708.m3u8
+#EXTINF:-1 tvg-name="DBC NEWS HD" tvg-logo="https://sunplex.net/iptv/logo/dbc-news.jpg" group-title="Bangla News",DBC NEWS HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+#EXTINF:-1 tvg-name="DESH TV" tvg-logo="https://sunplex.net/iptv/logo/desh-tv.jpg" group-title="Bangla Entertainment",DESH TV
+https://bozztv.com/rongo/rongo-DeshTV/index.m3u8
+#EXTINF:-1 tvg-name="BTV CHATTOGRAM" tvg-logo="https://sunplex.net/iptv/logo/btv.jpg" group-title="Bangla Entertainment",BTV CHATTOGRAM
+https://bozztv.com/rongo/rongo-BTVChattagram/index.m3u8
+#EXTINF:-1 tvg-name="ALJAZEERA HD" tvg-logo="https://sunplex.net/iptv/logo/aljazeera.jpg" group-title="International News",ALJAZEERA HD
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+#EXTINF:-1 tvg-name="BOISHAKHI TV" tvg-logo="https://sunplex.net/iptv/logo/boishakhi-tv.jpg" group-title="Bangla Entertainment",BOISHAKHI TV
+https://bozztv.com/rongo/rongo-BoishakhiTV/index.m3u8
+#EXTINF:-1 tvg-name="MOHONA TV" tvg-logo="https://sunplex.net/iptv/logo/mohona-tv.jpg" group-title="Bangla Entertainment",MOHONA TV
+https://bozztv.com/rongo/rongo-MohonaTV/index.m3u8
+#EXTINF:-1 tvg-name="STAR NEWS" tvg-logo="https://sunplex.net/iptv/logo/star-news.jpg" group-title="Bangla News",STAR NEWS
+https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8

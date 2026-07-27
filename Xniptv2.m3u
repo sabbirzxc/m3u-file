@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-name="T Sports" tvg-logo="https://i.imgur.com/zMVraLF.jpeg" group-title="Sports",T Sports
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/tsports1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Sony Sports2 HD" tvg-logo="https://i.imgur.com/ES4Aq69.png" group-title="Sports",Sony Sports2 HD
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1" tvg-logo="https://i.imgur.com/Vv9IFfF.png" group-title="Sports",Star Sports 1
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/sonyten5/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Star Sports Select 1" tvg-logo="https://i.imgur.com/Uf9kaSQ.jpeg" group-title="Sports",Star Sports Select 1
+https://master-proxy.wispy-boat-fc77.workers.dev/?url=http://stvlive.net:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="9X Jalwa" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m6XPXFgtJwZtiGgJ8hAG8uYP64x3rXyAMCZq7vRlBCtss=s900-c-k-c0x00ffffff-no-rj" group-title="Music",9X Jalwa
+https://mumt03.tangotv.in/9XJALWA/tracks-v2a1/mono.m3u8
+#EXTINF:-1 tvg-name="9XM" tvg-logo="https://i.postimg.cc/P5yq7ncL/20250529_120144.png" group-title="Music",9XM
+https://d14c63magvk61v.cloudfront.net/strm/channels/9xm/m4.m3u8
+#EXTINF:-1 tvg-name="9X Tashan" tvg-logo="https://www.lyngsat.com/logo/tv/num/9x-tashan-in.png" group-title="Music",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/SD504/SD504.m3u8
+#EXTINF:-1 tvg-name="ZOOM" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Zoom_2018.svg" group-title="Music",ZOOM
+https://d14c63magvk61v.cloudfront.net/strm/channels/zoom/m1.m3u8
+#EXTINF:-1 tvg-name="ATN Music" tvg-logo="https://i.ytimg.com/vi/ZKFyzan2-xo/maxresdefault_live.jpg" group-title="Music",ATN Music
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="BBC Kids" tvg-logo="https://i.imgur.com/8f6rtxd.png" group-title="Kids",BBC Kids
+https://dmr1h4skdal9h.cloudfront.net/2000.m3u8
+#EXTINF:-1 tvg-name="Cartoon Network" tvg-logo="https://tvassets.roarzone.info/images/cartoon-network.webp" group-title="Kids",Cartoon Network
+https://cdn4.skygo.mn/live/disk1/Cartoon_Network/HLSv3-FTA/Cartoon_Network-avc1_3000000=9-mp4a_256000_eng=6.m3u8
+#EXTINF:-1 tvg-name="Islamic TV" tvg-logo="https://i.imgur.com/vh6zWCN.png" group-title="Islamic",Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/1724-audio_113542_eng=113200-video=2202800.m3u8
+#EXTINF:-1 group-title="Live TV",https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts
+https://live20.bozztv.com/giatvplayout7/giatv-209627/tracks-v1a1/mono.ts
+#EXTINF:-1 group-title="Live TV",https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts
+https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts
+#EXTINF:-1 group-title="Live TV",https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts
