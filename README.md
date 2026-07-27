@@ -1,3 +1,5 @@
+https://sabbirzxc.github.io/m3u-file/
+
 # 📡 Channel Scan & File Output Architecture
 
 A standardized naming convention and classification pipeline for pre-scan master channel lists and post-scan categorized output files.
